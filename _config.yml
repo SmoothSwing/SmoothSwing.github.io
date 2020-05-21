@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #page title
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
@@ -139,3 +140,6 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 18d796130a4496cffdabd9ee22de38450c214491
