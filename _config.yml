@@ -46,15 +46,15 @@ features                                  :
     description                           : "Easy to use for everyone."
     fontawesome_icon_name                 : "hand-point-up"
     
-  - title                                 : "Elevation"
+  - title                                 : "Has Elevation"
     description                           : "+/- Height from you to your target."
     fontawesome_icon_name                 : "layer-group"
 
-  - title                                 : "Slope Adjusted Distance"
-    description                           : "\"Plays-like\" distance common to many laser rangefinders."
+  - title                                 : "Has Slope Adjusted Distance"
+    description                           : "Additional \"plays-like\" distance common to laser rangefinders."
     fontawesome_icon_name                 : "globe-americas"
 
-  - title                                 : "Club Assistant"
+  - title                                 : "Has Club Assistant"
     description                           : "Helps beginnners and pros pick the right club."
     fontawesome_icon_name                 : "check-circle"
 
