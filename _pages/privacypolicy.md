@@ -8,9 +8,6 @@ include_in_header: false
 25 May 2020
 
 # Privacy Policy
-Your privacy is important to us. It is Smooth Swing's policy to respect your privacy regarding any information we may collect from you through our app, Smooth Swing.
-
-<br>
 
 Your privacy is important to us. It is Smooth Swing's policy to respect your privacy regarding any information we may collect from you through our app, Smooth Swing.
 

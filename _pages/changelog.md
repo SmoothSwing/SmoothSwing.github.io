@@ -10,6 +10,7 @@ include_in_header: true
 
 ### `Initial Release`
 # **Version 1.0.0**
-Smooth Swing is a first of its kind 360 golf gps; it works across the world providing you with distances to targets, elevation change measurements, slope adjusted distances, and a club selection assistant. Whether you are a pro, an avid golfer, or are just getting started, Smooth Swing can help you play your best golf. After years of development, and months of anticipation and excitement, we are proud to present to you Smooth Swing, The Original 360 Golf GPS™.
+
+Smooth Swing is a first of its kind 360 golf gps, it works across the world providing you with distances to targets, elevation change measurements and more. Whether you are a pro, an avid golfer, or are just getting started Smooth Swing can help you play your best golf. After much anticipation and excitement we are proud to present you with Smooth Swing, The Original 360 Golf GPS™.
 
 <br>
